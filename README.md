@@ -2,6 +2,11 @@
 
 Medium Link : https://medium.com/@vikramjeet0201/bilingual-chatbot-using-langchain-openai-streamlit-b8d143b3c5df
 
+**Demo final product:-***
+
+https://github.com/Vikramjeetsingh07/bilingualchatbot/assets/89864178/4f33e4f3-8256-41f1-a91f-98830eb9ff80
+
+
 **Hindi-English Bilingual ChatGPT**
 
 A Streamlit application that demonstrates a bilingual chatbot using the OpenAI GPT-3.5 model for answering questions and assisting users in both Hindi and English.
